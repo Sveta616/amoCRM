@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DDAC82-D122-4CA9-BD35-9D37E6610C59}|CRM.csproj|c:\\users\\professional\\desktop\\\u043C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_crm\\crm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4DDAC82-D122-4CA9-BD35-9D37E6610C59}|CRM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DDAC82-D122-4CA9-BD35-9D37E6610C59}|CRM.csproj|C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DDAC82-D122-4CA9-BD35-9D37E6610C59}|CRM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4DDAC82-D122-4CA9-BD35-9D37E6610C59}|CRM.csproj|C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4DDAC82-D122-4CA9-BD35-9D37E6610C59}|CRM.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAmwIQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:11:39.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:27:45.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Professional\\Desktop\\\u041C\u0430\u0440\u0438\u043D\u0438\u043D\u0430_CRM\\CRM\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:55:22.796Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
